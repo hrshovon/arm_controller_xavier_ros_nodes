@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/robot_node/robot_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/robot_node/robot_node.egg-info/dependency_links.txt
+writing entry points to ../../build/robot_node/robot_node.egg-info/entry_points.txt
+writing requirements to ../../build/robot_node/robot_node.egg-info/requires.txt
+writing top-level names to ../../build/robot_node/robot_node.egg-info/top_level.txt
+reading manifest file '../../build/robot_node/robot_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/robot_node/robot_node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robot_node/robot_node.py -> /home/xavier/ros_robot_ws/build/robot_node/build/lib/robot_node
+running install
+running install_lib
+copying /home/xavier/ros_robot_ws/build/robot_node/build/lib/robot_node/robot_node.py -> /home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node
+byte-compiling /home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node/robot_node.py to robot_node.cpython-36.pyc
+  File "/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node/robot_node.py", line 35
+    def main(args=None)
+                      ^
+SyntaxError: invalid syntax
+
+running install_data
+running install_egg_info
+removing '/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node-0.0.0-py3.6.egg-info' (and everything under it)
+Copying ../../build/robot_node/robot_node.egg-info to /home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node-0.0.0-py3.6.egg-info
+running install_scripts
+Installing talker script to /home/xavier/ros_robot_ws/install/robot_node/lib/robot_node
+writing list of installed files to '/home/xavier/ros_robot_ws/build/robot_node/install.log'

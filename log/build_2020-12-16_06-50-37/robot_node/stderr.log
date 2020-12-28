@@ -1,0 +1,5 @@
+  File "/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node/robot_node.py", line 30
+    msg = Float32MultiArray(data=data_out,dtype=np.float32))
+                                                           ^
+SyntaxError: invalid syntax
+

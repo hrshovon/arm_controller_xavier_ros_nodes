@@ -1,0 +1,24 @@
+[0.978s] Invoking command in '/home/xavier/ros_robot_ws/src/robot_node': PYTHONPATH=/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_node build --build-base /home/xavier/ros_robot_ws/build/robot_node/build install --prefix /home/xavier/ros_robot_ws/install/robot_node --record /home/xavier/ros_robot_ws/build/robot_node/install.log --single-version-externally-managed
+[1.805s] running egg_info
+[1.808s] writing ../../build/robot_node/robot_node.egg-info/PKG-INFO
+[1.809s] writing dependency_links to ../../build/robot_node/robot_node.egg-info/dependency_links.txt
+[1.810s] writing entry points to ../../build/robot_node/robot_node.egg-info/entry_points.txt
+[1.812s] writing requirements to ../../build/robot_node/robot_node.egg-info/requires.txt
+[1.812s] writing top-level names to ../../build/robot_node/robot_node.egg-info/top_level.txt
+[1.964s] reading manifest file '../../build/robot_node/robot_node.egg-info/SOURCES.txt'
+[1.970s] writing manifest file '../../build/robot_node/robot_node.egg-info/SOURCES.txt'
+[1.970s] running build
+[1.971s] running build_py
+[1.971s] copying robot_node/robot_node.py -> /home/xavier/ros_robot_ws/build/robot_node/build/lib/robot_node
+[1.972s] running install
+[1.972s] running install_lib
+[1.975s] copying /home/xavier/ros_robot_ws/build/robot_node/build/lib/robot_node/robot_node.py -> /home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node
+[1.977s] byte-compiling /home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node/robot_node.py to robot_node.cpython-36.pyc
+[1.979s] running install_data
+[1.981s] running install_egg_info
+[1.987s] removing '/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node-0.0.0-py3.6.egg-info' (and everything under it)
+[1.988s] Copying ../../build/robot_node/robot_node.egg-info to /home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node-0.0.0-py3.6.egg-info
+[1.992s] running install_scripts
+[2.062s] Installing robot_interaction_node script to /home/xavier/ros_robot_ws/install/robot_node/lib/robot_node
+[2.064s] writing list of installed files to '/home/xavier/ros_robot_ws/build/robot_node/install.log'
+[2.140s] Invoked command in '/home/xavier/ros_robot_ws/src/robot_node' returned '0': PYTHONPATH=/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_node build --build-base /home/xavier/ros_robot_ws/build/robot_node/build install --prefix /home/xavier/ros_robot_ws/install/robot_node --record /home/xavier/ros_robot_ws/build/robot_node/install.log --single-version-externally-managed

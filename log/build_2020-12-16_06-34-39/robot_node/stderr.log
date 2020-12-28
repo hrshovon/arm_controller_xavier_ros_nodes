@@ -1,0 +1,5 @@
+  File "/home/xavier/ros_robot_ws/install/robot_node/lib/python3.6/site-packages/robot_node/robot_node.py", line 35
+    def main(args=None)
+                      ^
+SyntaxError: invalid syntax
+
